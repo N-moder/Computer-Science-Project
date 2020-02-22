@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EEA457356C13BDA022DBC652DFBCFF9FFD3B0214",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EEA457356C13BDA022DBC652DFBCFF9FFD3B0214" : 9223372036854775807,
+    "0BD7B4FA174B37C5134BB29E0C7A7E7301AF971F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F2720418-BDC6-4946-99EB-70149C3FE064",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EEA457356C13BDA022DBC652DFBCFF9FFD3B0214" : "Team.Squanto\/",
+    "0BD7B4FA174B37C5134BB29E0C7A7E7301AF971F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Team.Squanto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Team.Squanto.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shyambhimani\/Squanto",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BD7B4FA174B37C5134BB29E0C7A7E7301AF971F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shyambhimani\/Squanto.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEA457356C13BDA022DBC652DFBCFF9FFD3B0214"
+    }
+  ]
+}
